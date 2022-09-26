@@ -1,0 +1,68 @@
+*,::after,*::before{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Montserrat';
+    font-size: 22px;
+}
+body{
+    background-color:#181818  ;
+    
+
+}
+.Titulo h1{
+    color: #8758FF;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    font-size:2.5rem;
+}
+.Subtittle{
+    color: #5CB8E4;
+    text-align: center;
+}
+.Texto{
+    color: #F2F2F2;
+    margin-left: 3rem;
+}
+.Texto p{
+    color: #F2F2F2;
+    margin-right: 3rem;
+    text-align: center;
+}
+
+.divisiones{
+    border-color: #8758FF;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+#p_especial{
+    color: #8758FF;
+    font-weight: bold;
+    text-align: right;
+    text-transform: lowercase;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    font-size:1rem;
+} 
+a,img{
+    display: block;
+}
+a{
+    margin: 50px;
+    text-decoration: none;
+    color: #5CB8E4; 
+}
+a:hover{
+    color: #F2F2F2;
+}
+
+img{
+    width: 70%;
+    margin: auto;
+}
